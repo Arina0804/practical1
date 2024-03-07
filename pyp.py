@@ -3,5 +3,6 @@ import time
 a = 4
 b = 3
 c = 4
+d = 5
 
 print(a+b)
